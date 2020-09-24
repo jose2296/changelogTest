@@ -1,1 +1,1 @@
-const test = 'Release 1.2.0';
+const test2 = 'Release 1.2.0';
